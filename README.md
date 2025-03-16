@@ -77,7 +77,7 @@ Use **TrueTabs buttons** to send **real-time alerts** via **Telegram API**.
 
 ## 🖼 Screenshot  
 Here’s how the bot works in action:  
-![Bot Screenshot](images/bot_screenshot.png)  
+![Bot Screenshot](Bot_Screenshot.png)  
 
 ---
 
